@@ -5,6 +5,6 @@
 <br>
 
 - Functions Used: query (pseudo-SQL), importxml, importfeed
-    - Specifications: Dashboard (main tab), Data (data retrieved from [worldometers](https://www.worldometers.info/coronavirus/#main_table) and [Google News](https://news.google.com/)), Derived Fields (manipulated data fields)
+    - Specifications: Dashboard (main tab), Data (data retrieved from [worldometers](https://www.worldometers.info/coronavirus/#main_table) and [Google News](https://news.google.com/)), Data - Geo (altered location data to fit to geo map), Derived Fields (derived data fields)
     - Notes: Please make a copy of the dashboard on your own drive; edit requests will not be granted. Country specific information is selectable through a combobox.
 - Improvements: extract html source href for case updates, add more high level data points
